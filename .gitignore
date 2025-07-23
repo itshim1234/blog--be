@@ -1,0 +1,39 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+*.log
+*.csv
+*.dat
+*.db
+.env
+.env.*
+.DS_Store
+
+# Vite / Frontend
+dist/
+build/
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Operating System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Docker
+docker-compose.override.yml
+
+# Misc
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+coverage/
